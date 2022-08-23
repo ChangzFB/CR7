@@ -1,7 +1,7 @@
 # CR7
 CRACK CRISTIANO RONALDO
 
-# HASIL JR7
+# HASIL CR7
 ![Screenshot_20220823_205539](https://user-images.githubusercontent.com/98962829/186164805-e02b7988-00b9-4a1d-90c5-fbf0e88f950c.jpg)
 
 ## install on termux
@@ -22,22 +22,22 @@ CRACK CRISTIANO RONALDO
 
  python3 -m pip install requests bs4
 
- rm -rf JR7
+ rm -rf CR7
 
- git clone https://github.com/ChangzFB/JR7
+ git clone https://github.com/ChangzFB/CR7
 
- cd JR7
+ cd CR7
  
- python JR7.py
+ python CR7.py
 ```
 ## Cara Update
 ```php
-rm -rf JR7
+rm -rf CR7
 cd
-cd JR7
+cd CR7
 ls
 git pull
-python JR7.py
+python CR7.py
 ```
 
 # Instalation
